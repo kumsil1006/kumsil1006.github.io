@@ -3,7 +3,7 @@ main:
     - title: "블로그 방문하기"
       url: https://kumsil1006.tistory.com
     - title: "Categories"
-      url: /category-archive/
+      url: /categories/
     - title: "About"
       url: /about/
 
