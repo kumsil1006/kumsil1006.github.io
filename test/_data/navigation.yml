@@ -1,7 +1,9 @@
 # main links links
 main:
+  - title: "블로그 방문하기"
+    url: https://kumsil1006.tistory.com
   - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: /about
   - title: "Posts"
     url: /year-archive/
   - title: "Collections"
