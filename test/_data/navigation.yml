@@ -3,19 +3,8 @@ main:
   - title: "블로그 방문하기"
     url: https://kumsil1006.tistory.com
   - title: "About"
-    url: /about
-  - title: "Posts"
-    url: /year-archive/
-  - title: "Collections"
-    url: /collection-archive/
-  - title: "Sitemap"
-    url: /sitemap/
-  - title: "Extra Menu Item 1"
-    url: /
-  - title: "Extra Menu Item 2"
-    url: /
-  - title: "Extra Menu Item Long Title"
-    url: /
+    url: /about/
+
 
 # sidebar navigation list sample
 sidebar-sample:
