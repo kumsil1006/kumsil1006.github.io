@@ -2,6 +2,8 @@
 main:
     - title: "블로그 방문하기"
       url: https://kumsil1006.tistory.com
+    - title: "Tags"
+      url: /tags/
     - title: "About"
       url: /about/
 
