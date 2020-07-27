@@ -2,6 +2,9 @@
 title:  "선형 회귀 분석"
 excerpt: "Data Analytics"
 
+excerpt: "This post should display a **header with a solid background color**, if the theme supports it."
+header:
+  overlay_color: "#333"
 categories:
   - AI
 tags:
