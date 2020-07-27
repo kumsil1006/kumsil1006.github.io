@@ -105,9 +105,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/kumsil1006"
+excerpt: "This post should display a **header with a solid background color**, if the theme supports it."
 header:
-  image: https://352850-1094340-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/03/6.png
-
+  overlay_color: "#333"
 # Site Footer
 footer:
   links:
