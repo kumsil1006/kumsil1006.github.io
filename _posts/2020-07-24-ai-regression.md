@@ -2,7 +2,7 @@
 title:  "선형 회귀 분석"
 excerpt: "Data Analytics"
 header:
-  - image: /assets/images/bg.jpg
+   image: /assets/images/bg.jpg
 categories:
   - AI
 tags:
