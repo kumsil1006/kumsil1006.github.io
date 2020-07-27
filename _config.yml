@@ -272,3 +272,8 @@ plugins_dir:
   -jekyll-paginate
   -jekyll-sitemap
   -jekyll-feed
+
+
+header:
+  image: /assets/images/배경.jpg
+  image_description: "A description of the image"
