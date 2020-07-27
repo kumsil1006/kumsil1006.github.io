@@ -105,6 +105,8 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/kumsil1006"
+header:
+  image: https://352850-1094340-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/03/6.png
 
 # Site Footer
 footer:
@@ -272,7 +274,3 @@ plugins_dir:
   -jekyll-paginate
   -jekyll-sitemap
   -jekyll-feed
-
-
-header:
-  image: https://352850-1094340-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/03/6.png
