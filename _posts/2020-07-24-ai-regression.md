@@ -2,7 +2,7 @@
 title:  "선형 회귀 분석"
 excerpt: "Data Analytics"
 header:
-  overlay_color: "#333"
+  overlay_color: /assets/images/bg.jpg
 categories:
   - AI
 tags:
