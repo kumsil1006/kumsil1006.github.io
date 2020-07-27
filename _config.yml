@@ -275,5 +275,5 @@ plugins_dir:
 
 
 header:
-  image: /assets/images/배경.jpg
+  image: /assets/images/bg.jpg
   image_description: "홈페이지 배경화면"
